@@ -1,2 +1,2 @@
 # netflix-clone
-a netflix clone site
+a netflix homepage clone site
